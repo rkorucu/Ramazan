@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, there</h1>
 
 
-## About Me 
 Hi! I’m Ramazan, a Full Stack Software Engineer. Currently, I work at Tritech Software, modernizing legacy systems into cloud-based applications using Kotlin, Java, Redux, React, Springboot, and GCP. I’ve also worked on projects like creating a marketplace for UrbanicFarm and improving student platforms at Rose-Hulman Institute of Technology.
 
 I specialize in Java, JavaScript, Swift, TypeScript, and cloud technologies. I’m passionate about solving problems and optimizing workflows with modern tools. 
