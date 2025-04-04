@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ramazan</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h1 align="center">Hi 👋, there</h1>
+
 
 ## About Me 
 Hi! I’m Ramazan, a Full Stack Software Engineer. Currently, I work at Tritech Software, modernizing legacy systems into cloud-based applications using Kotlin, Java, Redux, React, Springboot, and GCP. I’ve also worked on projects like creating a marketplace for UrbanicFarm and improving student platforms at Rose-Hulman Institute of Technology.
 
-I specialize in Java, JavaScript, Swift, TypeScript, and cloud technologies. I’m passionate about solving problems and optimizing workflows with modern tools. Outside of work, I enjoy outdoor activities and traveling. Let’s connect!
+I specialize in Java, JavaScript, Swift, TypeScript, and cloud technologies. I’m passionate about solving problems and optimizing workflows with modern tools. 
 
-<h3 align="left">Connect with me:</h3>
+Outside of work, I enjoy outdoor activities and traveling.
+
+<h3 align="left"> Let’s connect!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rmznkrc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rmznkrc/" height="30" width="40" /></a>
 </p>
